@@ -109,3 +109,8 @@ C:\Users\User\source\repos\BDDFrameWork\BDDFrameWork\obj\Debug\netcoreapp3.1\BDD
 C:\Users\User\source\repos\BDDFrameWork\BDDFrameWork\obj\Debug\netcoreapp3.1\BDDFrameWork.pdb
 C:\Users\User\source\repos\BDDFrameWork\BDDFrameWork\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
 C:\Users\User\source\repos\BDDFrameWork\BDDFrameWork\obj\Debug\netcoreapp3.1\BDDFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BDDFrameWork\BDDFrameWork\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\BDDFrameWork\BDDFrameWork\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\source\repos\BDDFrameWork\BDDFrameWork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\BDDFrameWork\BDDFrameWork\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\BDDFrameWork\BDDFrameWork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
